@@ -2,4 +2,4 @@
 #
 echo "This is shell script"
 echo "second line added" 
-echo "auto"
+echo "auto triggred in ec2"
