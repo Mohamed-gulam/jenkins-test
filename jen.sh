@@ -2,4 +2,4 @@
 #
 echo "This is shell script"
 echo "second line added" 
-echo "auto triggred i"
+echo "auto triggred in jenkins"
